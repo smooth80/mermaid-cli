@@ -1254,9 +1254,10 @@ commander@^5.1.0:
   version "5.1.0"
   resolved "https://registry.npmjs.org/commander/-/commander-5.1.0.tgz"
 
-commander@^8.0.0:
-  version "8.2.0"
-  resolved "https://registry.yarnpkg.com/commander/-/commander-8.2.0.tgz#37fe2bde301d87d47a53adeff8b5915db1381ca8"
+commander@^9.4.1:
+  version "9.4.1"
+  resolved "https://registry.yarnpkg.com/commander/-/commander-9.4.1.tgz#d1dd8f2ce6faf93147295c0df13c7c21141cfbdd"
+  integrity sha512-5EEkTNyHNGFPD2H+c/dXXfQZYa/scCKasxWcXJaWnNJ99pnQN9Vnmqow+p+PlFPE63Q6mThaZws1T+HxfpgtPw==
 
 concat-map@0.0.1:
   version "0.0.1"
