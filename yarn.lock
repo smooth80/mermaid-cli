@@ -1250,10 +1250,6 @@ commander@^4.0.1:
   resolved "https://registry.yarnpkg.com/commander/-/commander-4.1.1.tgz#9fd602bd936294e9e9ef46a3f4d6964044b18068"
   integrity sha512-NOKm8xhkzAjzFx8B2v5OAHT+u5pRQc2UCa2Vq9jYL/31o2wi9mxBA7LIFs3sV5VSC49z6pEhfbMULvShKj26WA==
 
-commander@^5.1.0:
-  version "5.1.0"
-  resolved "https://registry.npmjs.org/commander/-/commander-5.1.0.tgz"
-
 commander@^8.0.0:
   version "8.2.0"
   resolved "https://registry.yarnpkg.com/commander/-/commander-8.2.0.tgz#37fe2bde301d87d47a53adeff8b5915db1381ca8"
@@ -3574,12 +3570,10 @@ xdg-basedir@^4.0.0:
   version "4.0.0"
   resolved "https://registry.npmjs.org/xdg-basedir/-/xdg-basedir-4.0.0.tgz"
 
-yarn-upgrade-all@^0.5.2:
-  version "0.5.4"
-  resolved "https://registry.npmjs.org/yarn-upgrade-all/-/yarn-upgrade-all-0.5.4.tgz"
-  dependencies:
-    chalk "^4.1.0"
-    commander "^5.1.0"
+yarn-upgrade-all@^0.7.1:
+  version "0.7.1"
+  resolved "https://registry.yarnpkg.com/yarn-upgrade-all/-/yarn-upgrade-all-0.7.1.tgz#167a5a78127c7051c4ed15396bd5f68e3b5cc744"
+  integrity sha512-KoYfSs8jGH5fp4+12ezF3uMMIxx70X8l9efmUvsI0KQmmF4nVssEmXw4Q2aZVrRZHF30b3+cyzMIp8iU6sb9aw==
 
 yauzl@^2.10.0:
   version "2.10.0"
