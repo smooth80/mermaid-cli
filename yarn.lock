@@ -1223,6 +1223,11 @@ color-convert@^2.0.1:
   dependencies:
     color-name "~1.1.4"
 
+color-loggers@^0.3.2:
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/color-loggers/-/color-loggers-0.3.2.tgz#04b12224f4ef3f78c1bdfb238f2cee50f72d7e51"
+  integrity sha512-asfXyY1/9N+Cxt30jb0PFy5tccybuMnWVc9J8EJuYoJVlcsUshn+pt2QuyUB3BWKMXVvEH8jgLrCFs11Am8QZA==
+
 color-name@1.1.3:
   version "1.1.3"
   resolved "https://registry.npmjs.org/color-name/-/color-name-1.1.3.tgz"
@@ -1249,10 +1254,6 @@ commander@^4.0.1:
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/commander/-/commander-4.1.1.tgz#9fd602bd936294e9e9ef46a3f4d6964044b18068"
   integrity sha512-NOKm8xhkzAjzFx8B2v5OAHT+u5pRQc2UCa2Vq9jYL/31o2wi9mxBA7LIFs3sV5VSC49z6pEhfbMULvShKj26WA==
-
-commander@^5.1.0:
-  version "5.1.0"
-  resolved "https://registry.npmjs.org/commander/-/commander-5.1.0.tgz"
 
 commander@^8.0.0:
   version "8.2.0"
@@ -3574,12 +3575,12 @@ xdg-basedir@^4.0.0:
   version "4.0.0"
   resolved "https://registry.npmjs.org/xdg-basedir/-/xdg-basedir-4.0.0.tgz"
 
-yarn-upgrade-all@^0.5.2:
-  version "0.5.4"
-  resolved "https://registry.npmjs.org/yarn-upgrade-all/-/yarn-upgrade-all-0.5.4.tgz"
+yarn-upgrade-all@^0.7.5:
+  version "0.7.5"
+  resolved "https://registry.yarnpkg.com/yarn-upgrade-all/-/yarn-upgrade-all-0.7.5.tgz#dc0a8335234298a6d548d0956d78c45471aa34e8"
+  integrity sha512-yC2DgKX2Vzeb4LznSHukF/U5AapE7i/A4cBoh8P2FsEy1RBPaXEdd320ZK5Phgj6/Y/1pmFkP36S7GxS0YrzCg==
   dependencies:
-    chalk "^4.1.0"
-    commander "^5.1.0"
+    color-loggers "^0.3.2"
 
 yauzl@^2.10.0:
   version "2.10.0"
